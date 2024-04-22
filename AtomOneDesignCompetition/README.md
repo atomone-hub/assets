@@ -18,17 +18,17 @@ Are you ready to showcase your design prowess and make a lasting impact? Make su
 Duration: 3 weeks to submit + 1 additional week for voting
 
 Timeline:
-Start of the competition: 22th of April 2024
-Last day to submit: 13th of May 2024, 23:59 PM UTC
-GitHub voting period: 22th of April 2024 to May 20th 2024, 23:59 PM UTC
-Winner announcement: May 31, 2024, 23:59 PM UTC.
+Start of the competition: 22nd of April 2024
+Last day to submit: 13th of May 2024, 11:59 PM UTC
+GitHub voting period: 22nd of April 2024 to May 20th 2024, 11:59 PM UTC
+Winner announcement: May 31st, 2024, 11:59 PM UTC.
 
 **Voting information:**
-Anyone with a registered GitHub account can vote on the submissions, starting on the first day of the competition, meaning April 22, 2024  and running until the end of the voting period, which is May 20, 2024, 23:59 PM UTC. 
+Anyone with a registered GitHub account can vote on the submissions, starting on the first day of the competition, meaning April 22nd, 2024  and running until the end of the voting period, which is May 20th, 2024, 11:59 PM UTC. 
 
 The votes will contribute to the All In Bits decision-making process for selecting the winners but will not be the only determining factor. As part of this competition, All in Bits reserves the right to designate other winners beyond the most voted choices by the community.
 
-The All in Bits team will evaluate all submissions and will announce the winners by May 31, 2024, 23:59 PM UTC.
+The All in Bits team will evaluate all submissions and will announce the winners by May 31st, 2024, 11:59 PM UTC.
 
 **Submission requirements and guidelines:**
 Each valid submission must contain:
@@ -49,10 +49,10 @@ Total maximum prize pool for this competition is $28,000, which will be awarded 
 Participants must have a GitHub account to participate, and all Participants are required to communicate and submit their contribution for the competition using GitHub. All in Bits may require participants to provide identifying information such as e-mail address in order to verify ownership of GitHub account(s). 
 
 **Submission and voting phase:**
-All participants must adhere to the submission guidelines and submit their entries via the dedicated GitHub repository https://github.com/atomone-hub/assets/tree/main/AtomOneDesignCompetition by May 13, 2024, 23:59 PM UTC. 
+All participants must adhere to the submission guidelines and submit their entries via the dedicated GitHub repository https://github.com/atomone-hub/assets/tree/main/AtomOneDesignCompetition by May 13th, 2024, 11:59 PM UTC. 
 
 **On chain process:**
-Following the communicated deadline, up to 4 winning submissions will be listed as individual proposals on GovGen for the community to vote on as their preferred logo. All in Bits will analyze the results of the GovGen votes to gauge community sentiment regarding its preferred logo. AiB will consider the results of the vote at its discretion as part of its own logo selection process. In other words, AiB may or may not use the winning logo as its contribution to the development of the proposed AtomOne’s future brand identity.
+Following the communicated deadline, up to 4 winning submissions will be listed as individual proposals on GovGen for the community to vote on as its preferred logo. All in Bits will analyze the results of the GovGen votes to gauge community sentiment regarding its preferred logo. AiB will consider the results of the vote at its discretion as part of its own logo selection process. In other words, AiB may or may not use the winning logo as its contribution to the development of the proposed AtomOne’s future brand identity.
 
 **Eligibility:** Each Contributor who participates in this design competition must satisfy the following conditions: 
 Cannot be an employee, contractor or family member of an employee or contractor of the sponsoring organization (All in Bits Inc)
