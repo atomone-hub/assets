@@ -34,7 +34,7 @@ The All in Bits team will evaluate all submissions and will announce the winners
 
 ## Submission requirements and guidelines
 
-**Each valid submission must contain:** Full Size Logo ( include an icon + typography ) + Short Logo ( coin logo to be used as a token logo in UIs (wallets, explorers, trackers))
+**Each valid submission must contain:** Full Size Logo ( include an icon + typography ) + Short Logo ( coin logo to be used as a token logo in UIs such as wallets explorers, and trackers)
 
 * you can submit the entry in any format 
 * participants are permitted to submit designs previously shared in similar discussions under the https://github.com/atomone-hub GitHub repository, provided they are using the same account that was used for submitting the original design
@@ -44,7 +44,7 @@ The All in Bits team will evaluate all submissions and will announce the winners
 * AiB may decide to split the reward if your work builds on work previously submitted on GitHub by someone else
 
 ### How to submit:
-1. Sign in to your GitHub account or create one if you don’t have any
+1. Sign in to your GitHub account or create one if you don’t have one
 2. Go to [ https://github.com/atomone-hub/assets/issues/3](https://github.com/atomone-hub/assets/issues/3)
 3. Upload your work in any format as a comment
 
